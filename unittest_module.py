@@ -1,5 +1,5 @@
 import unittest
-from calc import add, multioly, power
+from calc import add, multiply, power
 
 class TestCalculationMethod(unittest.TestCase):
 
