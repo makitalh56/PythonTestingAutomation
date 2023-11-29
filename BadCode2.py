@@ -1,9 +1,3 @@
-import json
-import random
-import os
-import sys
-
-
 class exampleClass:
     def __init__(self, val1, val2):
         self.val1 = val1
