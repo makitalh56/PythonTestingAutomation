@@ -16,3 +16,4 @@ def test_multiply():
 def test_power():
     assert power(1, 1) == 1
     assert power(2, 4) == 16
+    assert power(-2, 1) == -2
